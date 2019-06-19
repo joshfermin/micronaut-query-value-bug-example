@@ -14,5 +14,4 @@ class ExampleTest {
     fun exampleTest() {
         exampleClient.get(true)
     }
-
 }
